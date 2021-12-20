@@ -1,0 +1,54 @@
+ 
+
+ANEXO I. Sondeo Ecolégico Rapido. Parque Nacional Isla del Coco.
+
+METODOLOGIA:
+
+Los sondeos batimétricos efectuados alrededor de la isla fueron realizados con la ecosonda del barco de investigacion
+Searcher de la Universidad de Costa Rica. Con la ayuda de la carta nautica DMA no. 21621 (10° edicion, Set. 8 de 1984,
+escala 1: 25 000, basada en un sondeo en 1942) se seleccionaron transectos de muestreo alrededor de la isla, en la direccién
+de gradiente de profundidad , hasta alcanzar el talud insular.
+
+Las posiciones de muestreo alrededor de la isla se determinaron en coordenadas de latitud y longitud con el GPS del
+Searcher, el cual posee una precision de +20 m.
+
+Los datos obtenidos de los sondeos batimétricos fueron graficados sobre la carta naitica existente. Contornos de
+profundidad fueron trazados sobre este campo escalar y digitalizados en coordenadas de longitud mediante un digitalizador.
+Estos contomos fueron suavizados y graficados mediante programas en fortran. Estas coordenadas fueron, ademas,
+georeferenciadas y graficadas de nuevo, con ayuda de programas en fortran.
+
+El campo de profundidades alrededor de la isla fué interpolado con el tamafio maximo de reilla (249.44 m), de manera que
+pudiera representar toda la extension de Ia plataforma con graficas en 3 dimensiones.
+
+Un muestreo mds fino se realizé para las bahias Chathan, Weston y Wafer, con ayuda de una embarcacion inflable, un
+ecosonda portatil y un GPS manual. Estas posiciones fueron corregidas con monitoreo simulténeo de una unidad base
+localizada en el Departamento de Geografia de la Universidad Nacional para obtener una precision de 2.a 5m.
+
+RESULTADOS:
+
+La plataforma insular es de un ancho variable, y se extiende a lo largo de un eje noreste-suroeste, como
+muestran las Figuras 1 y 2. El limite de esta plataforma esta determinado perfectamente por la isolinea de
+100 brazas (183 m), a partir de la cual se inicia el talud insular bien definido, con pendientes de profundidad
+muy marcadas, las cuales pueden alcanzar hasta 0.7 (1:1.4) sobre el borde noroeste, siendo un poco mas
+
+leves para el resto de la isla.
+
+La plataforma al sur-suroeste contiene mas variacion batimétrica, donde se pueden ver grandes rocas que
+afloran a la superficie formando pequefias islas, como Islas dos Amigos, Isla Rafael e Isla Juan Bautista
+(Figura 3). Se encuentran también gran cantidad de rocas sumergidas, algunas de las cuales se localizan por
+las rompientes que generan durante la marea baja, y que las hacen por lo tanto, peligrosas para la
+navegacion. Algunas pequefias montafias submarinas se encuentran en esta region, muy codiciadas para el
+
+buceo, por cuanto permanecen rodeadas de gran cantidad de vida marina.
+
+Diferentes perspectivas de fa plataforma insular se presentan en las Figuras 4, 5, 6 y 7. Estas figuras
+muestran dos distintos angulos de elevacion (70 y 80°), y tres angulos de rotacién (35, 125, 225°) con los
+cuales se pueden dominar !a mayoria de los rasgos principales de la plataforma. El tamaiio de rejilla de
+interpolacién (249.44 m) no permite definir rasgos de menor escala, sin embargo algunos de ellos son aun
+
+visibles en estas graficas. Son distinguibles los dorsales que identifican a las Islas dos Amigos al suroeste, y
+
+Mi
+
+ 
+

@@ -1,0 +1,37 @@
+Programa de Estudios Ambientales
+PROAMBI
+
+ 
+
+ 
+
+ 
+
+FIG. 4 BATIMETRIA OF LA PLATAFORMA INSULAR DE LA ISLA DEL coco
+
+  
+ 
+  
+ 
+
+HGRZL= 259.4 VERT
+PROF MAX= 100.0 srazas
+ELEVACION= 80
+AZIMUTO= 35
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figura 4. Batimetria -en 3 dimensiones-- de la plataforma insular de 1a Isla del Coco vista con un Angulo
+
+de elevacion de 80° y una rotacién del norte con respecto a una horizontal de 35°.
+
+116
+

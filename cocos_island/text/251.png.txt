@@ -1,0 +1,43 @@
+Programa de Estudios Ambientales
+PROAMBI
+
+ 
+
+Lista 1: Vertebrados reportados para la Isla del Coco.
+
+CHORDATA Nombre comin Habitat Condicién
+AVES
+PODICIPEDIFORMES
+PODICIPEDIDAE
+Podilymbus podiceps Zambullidor Ac Pe
+PROCELLARIIDAE
+Puffinus iherminieri Pardela Ma Pc VR
+Puffinus creatopus Pardela blanca Ma Pc VR
+Pterodroma phaeopygia Petrel Ma R VR
+HYDROBATIDAE
+Oceanodroma tethys Paiiio Ma R VR
+Oceanodroma castro Paiiio Ma R VR
+Oceanodroma leucorhoa Paifio Ma Co VR
+Oceanodroma markhami Paiiio Ma R VR
+Oceanodroma melania Paiiio negro Ma Co VR
+Pelagodroma marina Paifio Ma R VR
+PELECANIFORMES
+PELECANIDAE
+* Pelecanus occidentalis Buchén Ma Ab
+SULIDAE
+* Sula leucogaster Monjita 4 Ma Co
+* Sula dactylatra Piquero Ma Pc VR
+* Sula sula Piquero Ma Ab
+FREGATIDAE
+* Fregata magnifiscens Tijereta del mar Ma Co MR
+* Fregata minor Tijereta Ma Ab
+CICONIFORMES
+ARDEIDAE
+Ardea herodias Garza ceniza Ac PoM
+Casmerodius albus Garza real Ac Co MR
+Egretta tricolor Garceta Ac Pc MR
+Egretta caerulea Garceta azul Ac Ab MR
+Egretta thula Garceta Ac Co MR
+
+Butorides virescens Chocuaco Ac Co MR
+

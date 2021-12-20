@@ -1,0 +1,44 @@
+Programa de Estudios Ambientales
+
+ 
+
+PROAMBI
+Tringa melanoleuca Pijije Ac PoM
+Tringa solitaria Tigiiza Ac PoM
+Catoptrophorus semipalmatus _ Pigiilo Ma CoM
+STERCORARIIDAE
+Stercorarius pomarinus Pagalo Ma R VE
+Stercorarius parasiticus Pagalo Ma RM
+LARIDAE
+Larus atricilla Gaviota Ma AbM
+Larus pipixcan Gaviota Ma AbM
+Larus modestus Torero Ma R VE
+Larus argentatus Gaviota Ma PoM
+Sterna sandvicensis Pagaza Ma CoM
+Sterna fuscata Charran Ma R VE
+Xema sabini Gaviota Ma PoM
+Anous stolidus Tifiosa comin Oc Ab Ir
+* Anous minutus Tifiosa negra Ac CoM
+* Gygis alba Palomita del Ma AbiR
+Espiritu Santo
+CUCULIFORMES
+CUCULIDAE
+* Coccyzus ferrugineus Cuclillo T Pc
+CAPRIMULGIFORMES e
+CAPRIMULGIDAE .
+Chordeiles minor Cuyeo Aa Ab IR
+Chordeiles acutipennis Cuyeo Aa Co MR
+CORACIFORMES
+ALCEDINIDAE
+Ceryle alcyon Martin pescador Ac Ma CoM
+PASSERIFORMES
+TYRANNIDAE
+Tyrannus tyrannus Tirano norteiio Aa CoM
+* Nesotriccus ridgwayi Mosquerito Pr CS1-2 Co
+HIRUNDINIDAE
+Progne subis Golondrén
+* Riparia riparia Golondrina Aa Ae AbM
+* Hirundo rustica Golondrina Aa AbM
+
+70
+

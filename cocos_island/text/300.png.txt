@@ -1,0 +1,38 @@
+Programa de Estudios Ambientales
+PROAMBI
+
+ 
+
+ 
+
+FIG.8
+
+CONTORNGS BATIMETRICGS — BAHIA CHATHAM
+
+ 
+
+(X 0)
+
+DISTANCIA EN METROS
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 30 60 30 120 150 180
+DISTANCIA EN METROS (X 10)
+
+ 
+
+ 
+
+ 
+
+Figura 8. Contornos batimétricos (en brazas) alrededor de Bahia Chatham en la Isla del Coco.
+
+120
+
