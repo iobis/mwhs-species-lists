@@ -13,3 +13,9 @@ This script does not produce a definitive species list, but it tries to extract 
 This script fetches all checklists from https://www.darwinfoundation.org/en/datazone/checklist.
 
 :paperclip:	[taxa.txt](galapagos/taxa.txt)
+
+## Other lists
+
+This processes a set of species lists delivered in xlsx.
+
+:paperclip:	[other_lists.csv](others/other_lists.csv)
